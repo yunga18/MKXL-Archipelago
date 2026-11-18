@@ -1,0 +1,120 @@
+2026-11-17T16:17:35.825264
+base=0x7ff7a6560000
+estado={'state': 8, 'state_name': 'GS_PLAY', 'mode': 3, 'mode_name': '䵇卟佔奒佟䙆戀\x00\x00㾀\x00㾀', 'p1': 'char_aztec_a', 'p2': 'char_kano_a', 'winner': -1}
+
+0x196c9b70040	CHAR_Alien_A	page=15	bit=512	flags=0x2	ap=Alien
+0x196c9b70078	CHAR_Aztec_B	page=0	bit=1	flags=0xc	ap=Kotal Kahn
+0x196c9b700b0	CHAR_Aztec_E	page=-1	bit=0	flags=0xc	ap=Kotal Kahn
+0x196c9b700e8	CHAR_BoRaiChoDLC_A	page=15	bit=1024	flags=0x2	ap=Bo' Rai Cho
+0x196c9b70120	CHAR_CageJr_B	page=0	bit=2	flags=0x14	ap=Cassie Cage
+0x196c9b70158	CHAR_CageJr_N	page=15	bit=16384	flags=0x14	ap=Cassie Cage
+0x196c9b70190	CHAR_CageJr_O	page=1	bit=4096	flags=0x14	ap=Cassie Cage
+0x196c9b701c8	CHAR_Ermac_A	page=-1	bit=0	flags=0x8	ap=Ermac
+0x196c9b70200	CHAR_Ermac_B	page=0	bit=4	flags=0xc	ap=Ermac
+0x196c9b70238	CHAR_Ermac_H	page=14	bit=8192	flags=0xc	ap=Ermac
+0x196c9b70270	CHAR_Ermac_N	page=-1	bit=0	flags=0xc	ap=Ermac
+0x196c9b702a8	CHAR_Ermac_V	page=15	bit=8192	flags=0xc	ap=Ermac
+0x196c9b702e0	CHAR_Jason_A	page=14	bit=8	flags=0xa	ap=Jason Voorhees
+0x196c9b70318	CHAR_JaxJr_A	page=-1	bit=0	flags=0x10	ap=Jacqui Briggs
+0x196c9b70350	CHAR_JaxJr_B	page=0	bit=16	flags=0x14	ap=Jacqui Briggs
+0x196c9b70388	CHAR_JaxJr_N	page=15	bit=32768	flags=0x14	ap=Jacqui Briggs
+0x196c9b703c0	CHAR_JaxJr_O	page=1	bit=8192	flags=0x14	ap=Jacqui Briggs
+0x196c9b703f8	CHAR_Jax_A	page=-1	bit=0	flags=0x8	ap=Jax
+0x196c9b70430	CHAR_Jax_B	page=0	bit=8	flags=0xc	ap=Jax
+0x196c9b70468	CHAR_Jax_C	page=0	bit=16777216	flags=0xc	ap=Jax
+0x196c9b704a0	CHAR_Jax_M	page=1	bit=128	flags=0xc	ap=Jax
+0x196c9b704d8	CHAR_Jax_P	page=14	bit=1024	flags=0xc	ap=Jax
+0x196c9b70510	CHAR_Jax_Y	page=14	bit=16777216	flags=0xc	ap=Jax
+0x196c9b70548	CHAR_JohnnyCage_A	page=-1	bit=0	flags=0x8	ap=Johnny Cage
+0x196c9b70580	CHAR_JohnnyCage_B	page=0	bit=32	flags=0xc	ap=Johnny Cage
+0x196c9b705b8	CHAR_JohnnyCage_C	page=0	bit=33554432	flags=0xc	ap=Johnny Cage
+0x196c9b705f0	CHAR_JohnnyCage_M	page=1	bit=64	flags=0xc	ap=Johnny Cage
+0x196c9b70628	CHAR_JohnnyCage_P	page=14	bit=256	flags=0xc	ap=Johnny Cage
+0x196c9b70660	CHAR_JohnnyCage_Z	page=14	bit=131072	flags=0xc	ap=Johnny Cage
+0x196c9b70698	CHAR_Kano_A	page=-1	bit=0	flags=0x9	ap=Kano
+0x196c9b706d0	CHAR_Kano_B	page=0	bit=64	flags=0xd	ap=Kano
+0x196c9b70708	CHAR_Kano_K	page=14	bit=128	flags=0xd	ap=Kano
+0x196c9b70740	CHAR_Kano_T	page=14	bit=1048576	flags=0xd	ap=Kano
+0x196c9b70778	CHAR_KenshiJr_A	page=-1	bit=0	flags=0x8	ap=Takeda
+0x196c9b707b0	CHAR_KenshiJr_B	page=0	bit=256	flags=0xc	ap=Takeda
+0x196c9b707e8	CHAR_KenshiJr_L	page=15	bit=65536	flags=0xc	ap=Takeda
+0x196c9b70820	CHAR_Kenshi_A	page=-1	bit=0	flags=0x8	ap=Kenshi
+0x196c9b70858	CHAR_Kenshi_B	page=0	bit=128	flags=0xc	ap=Kenshi
+0x196c9b70890	CHAR_Kenshi_F	page=14	bit=16384	flags=0xc	ap=Kenshi
+0x196c9b708c8	CHAR_Kitana_A	page=-1	bit=0	flags=0x10	ap=Kitana
+0x196c9b70900	CHAR_Kitana_B	page=0	bit=512	flags=0x14	ap=Kitana
+0x196c9b70938	CHAR_Kitana_C	page=0	bit=67108864	flags=0x14	ap=Kitana
+0x196c9b70970	CHAR_Kitana_E	page=1	bit=4	flags=0x14	ap=Kitana
+0x196c9b709a8	CHAR_Kitana_F	page=14	bit=65536	flags=0x14	ap=Kitana
+0x196c9b709e0	CHAR_Kitana_M	page=1	bit=512	flags=0x14	ap=Kitana
+0x196c9b70a18	CHAR_KungLaoJr_A	page=-1	bit=0	flags=0x8	ap=Kung Jin
+0x196c9b70a50	CHAR_KungLaoJr_B	page=0	bit=2048	flags=0xc	ap=Kung Jin
+0x196c9b70a88	CHAR_KungLaoJr_E	page=-1	bit=0	flags=0xc	ap=Kung Jin
+0x196c9b70ac0	CHAR_KungLao_A	page=-1	bit=0	flags=0x8	ap=Kung Lao
+0x196c9b70af8	CHAR_KungLao_B	page=0	bit=1024	flags=0xc	ap=Kung Lao
+0x196c9b70b30	CHAR_KungLao_C	page=0	bit=134217728	flags=0xc	ap=Kung Lao
+0x196c9b70b68	CHAR_KungLao_Y	page=14	bit=33554432	flags=0xc	ap=Kung Lao
+0x196c9b70ba0	CHAR_KungLao_Z	page=14	bit=524288	flags=0xc	ap=Kung Lao
+0x196c9b70bd8	CHAR_LadyBug_B	page=0	bit=4096	flags=0x14	ap=D'Vorah
+0x196c9b70c10	CHAR_LeatherFace_A	page=15	bit=2048	flags=0x3	ap=Leatherface
+0x196c9b70c48	CHAR_LeatherFace_B	page=-1	bit=0	flags=0x5	ap=Leatherface
+0x196c9b70c80	CHAR_LeatherFace_C	page=-1	bit=0	flags=0x5	ap=Leatherface
+0x196c9b70cb8	CHAR_LiuKang_A	page=-1	bit=0	flags=0x8	ap=Liu Kang
+0x196c9b70cf0	CHAR_LiuKang_B	page=0	bit=8192	flags=0xc	ap=Liu Kang
+0x196c9b70d28	CHAR_LiuKang_C	page=0	bit=268435456	flags=0xc	ap=Liu Kang
+0x196c9b70d60	CHAR_LiuKang_E	page=1	bit=8	flags=0xc	ap=Liu Kang
+0x196c9b70d98	CHAR_LiuKang_T	page=14	bit=4194304	flags=0xc	ap=Liu Kang
+0x196c9b70dd0	CHAR_LiuKang_Z	page=14	bit=262144	flags=0xc	ap=Liu Kang
+0x196c9b70e08	CHAR_MasterMale_A	page=-1	bit=0	flags=0x0	ap=Ferra/Torr
+0x196c9b70e40	CHAR_MasterMale_B	page=0	bit=16384	flags=0x4	ap=Ferra/Torr
+0x196c9b70e78	CHAR_MasterMale_E	page=-1	bit=0	flags=0x4	ap=Ferra/Torr
+0x196c9b70eb0	CHAR_Mileena_A	page=-1	bit=0	flags=0x10	ap=Mileena
+0x196c9b70ee8	CHAR_Mileena_B	page=0	bit=32768	flags=0x14	ap=Mileena
+0x196c9b70f20	CHAR_Mileena_C	page=0	bit=536870912	flags=0x14	ap=Mileena
+0x196c9b70f58	CHAR_Mileena_H	page=14	bit=2048	flags=0x14	ap=Mileena
+0x196c9b70f90	CHAR_Mileena_M	page=1	bit=1024	flags=0x14	ap=Mileena
+0x196c9b70fc8	CHAR_Nomad_A	page=-1	bit=0	flags=0x8	ap=Erron Black
+0x196c9b71000	CHAR_Nomad_B	page=0	bit=65536	flags=0xc	ap=Erron Black
+0x196c9b71038	CHAR_Nomad_L	page=15	bit=262144	flags=0xc	ap=Erron Black
+0x196c9b71070	CHAR_Predator_A	page=14	bit=4	flags=0xa	ap=Predator
+0x196c9b710a8	CHAR_QuanChi_A	page=-1	bit=0	flags=0x8	ap=Quan Chi
+0x196c9b710e0	CHAR_QuanChi_B	page=0	bit=131072	flags=0xc	ap=Quan Chi
+0x196c9b71118	CHAR_QuanChi_Y	page=14	bit=8388608	flags=0xc	ap=Quan Chi
+0x196c9b71150	CHAR_Raiden_A	page=-1	bit=0	flags=0x8	ap=Raiden
+0x196c9b71188	CHAR_Raiden_B	page=0	bit=262144	flags=0xc	ap=Raiden
+0x196c9b711c0	CHAR_Raiden_C	page=0	bit=1073741824	flags=0xc	ap=Raiden
+0x196c9b711f8	CHAR_Raiden_I	page=1	bit=32	flags=0xc	ap=Raiden
+0x196c9b71230	CHAR_Reptile_A	page=-1	bit=0	flags=0x9	ap=Reptile
+0x196c9b71268	CHAR_Reptile_B	page=0	bit=524288	flags=0xd	ap=Reptile
+0x196c9b712a0	CHAR_Reptile_H	page=14	bit=4096	flags=0xd	ap=Reptile
+0x196c9b712d8	CHAR_Reptile_N	page=-1	bit=0	flags=0xd	ap=Reptile
+0x196c9b71310	CHAR_Scorpion_B	page=0	bit=1048576	flags=0xc	ap=Scorpion
+0x196c9b71348	CHAR_Scorpion_C	page=0	bit=2147483648	flags=0xc	ap=Scorpion
+0x196c9b71380	CHAR_Scorpion_J	page=14	bit=536870912	flags=0xc	ap=Scorpion
+0x196c9b713b8	CHAR_Scorpion_M	page=1	bit=256	flags=0xc	ap=Scorpion
+0x196c9b713f0	CHAR_Scorpion_N	page=-1	bit=0	flags=0xc	ap=Scorpion
+0x196c9b71428	CHAR_Scorpion_P	page=14	bit=512	flags=0xc	ap=Scorpion
+0x196c9b71460	CHAR_Scorpion_V	page=1	bit=16	flags=0xc	ap=Scorpion
+0x196c9b71498	CHAR_Shinnok_A	page=1	bit=2048	flags=0x8	ap=Shinnok
+0x196c9b714d0	CHAR_Shinnok_B	page=0	bit=2097152	flags=0xc	ap=Shinnok
+0x196c9b71508	CHAR_Shinnok_F	page=14	bit=32768	flags=0xc	ap=Shinnok
+0x196c9b71540	CHAR_Sonya_A	page=-1	bit=0	flags=0x10	ap=Sonya Blade
+0x196c9b71578	CHAR_Sonya_B	page=0	bit=4194304	flags=0x14	ap=Sonya Blade
+0x196c9b715b0	CHAR_Sonya_C	page=1	bit=1	flags=0x14	ap=Sonya Blade
+0x196c9b715e8	CHAR_Sonya_K	page=14	bit=32	flags=0x14	ap=Sonya Blade
+0x196c9b71620	CHAR_Sonya_T	page=14	bit=2097152	flags=0x14	ap=Sonya Blade
+0x196c9b71658	CHAR_Subzero_B	page=-1	bit=0	flags=0x8	ap=Sub-Zero
+0x196c9b71690	CHAR_Subzero_C	page=1	bit=2	flags=0xc	ap=Sub-Zero
+0x196c9b716c8	CHAR_Subzero_K	page=14	bit=64	flags=0xc	ap=Sub-Zero
+0x196c9b71700	CHAR_Subzero_N	page=-1	bit=0	flags=0xc	ap=Sub-Zero
+0x196c9b71738	CHAR_Subzero_V	page=14	bit=1073741824	flags=0xc	ap=Sub-Zero
+0x196c9b71770	CHAR_TanyaDLC_A	page=14	bit=2	flags=0x12	ap=Tanya
+0x196c9b717a8	CHAR_Tremor_A	page=14	bit=16	flags=0xa	ap=Tremor
+0x196c9b717e0	CHAR_Goro_A	page=14	bit=1	flags=0xa	ap=Goro
+0x196c9b71818	CHAR_Triborg_A	page=15	bit=4096	flags=0x2	ap=Triborg
+0x196c9b71850	CHAR_Aztec_A	page=-1	bit=0	flags=0x8	ap=Kotal Kahn
+0x196c9b71888	CHAR_CageJr_A	page=-1	bit=0	flags=0x10	ap=Cassie Cage
+0x196c9b718c0	CHAR_LadyBug_L	page=15	bit=131072	flags=0x14	ap=D'Vorah
+0x196c9b718f8	CHAR_LadyBug_A	page=-1	bit=0	flags=0x10	ap=D'Vorah
+0x196c9b71930	CHAR_Scorpion_A	page=-1	bit=0	flags=0x8	ap=Scorpion
+0x196c9b71968	CHAR_Subzero_A	page=0	bit=8388608	flags=0xc	ap=Sub-Zero

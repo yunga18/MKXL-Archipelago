@@ -1,0 +1,15 @@
+{
+    "$schema": "https://github.com/ManualForArchipelago/Manual/raw/main/schemas/Manual.game.schema.json",
+    "game": "MortalKombatXL",
+    "creator": "Kombatiente",
+    "filler_item_name": "1000 Koins",
+    "starting_items": [
+        {
+            "item_categories": [
+                "Personajes"
+            ],
+            "random": 3
+        }
+    ],
+    "death_link": true
+}

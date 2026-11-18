@@ -1,0 +1,18 @@
+# Plantilla de YAML para Mortal Kombat X (XL) en Archipelago.
+# Cambia "name" por tu nombre de jugador y ajusta las opciones.
+name: TuNombre
+description: Mortal Kombat X (XL) - Archipelago
+game: Mortal Kombat X
+Mortal Kombat X:
+  progression_balancing: normal
+  accessibility: full
+  # Porcentaje del relleno que serán trampas (0-100). "recomendado" = 20.
+  filler_traps: recomendado
+  # Un check por hacer un Brutality con cada personaje (difícil).
+  incluir_brutalities: false
+  # Un check por cada uno de los 12 capítulos de la Historia.
+  incluir_modo_historia: true
+  # 20 checks por comprar cosas en la Krypta con Koins.
+  incluir_krypta: true
+  # Si pierdes una pelea de Torre o Historia, mueren todos los que tengan DeathLink (y al revés).
+  death_link: false

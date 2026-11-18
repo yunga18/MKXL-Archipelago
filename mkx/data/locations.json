@@ -1,0 +1,910 @@
+{
+    "$schema": "https://github.com/ManualForArchipelago/Manual/raw/main/schemas/Manual.locations.schema.json",
+    "data": [
+        {
+            "name": "Torre Klásica completada - Alien",
+            "category": [
+                "Torre Klásica"
+            ],
+            "requires": "|Alien|"
+        },
+        {
+            "name": "Torre Klásica completada - Bo' Rai Cho",
+            "category": [
+                "Torre Klásica"
+            ],
+            "requires": "|Bo' Rai Cho|"
+        },
+        {
+            "name": "Torre Klásica completada - Cassie Cage",
+            "category": [
+                "Torre Klásica"
+            ],
+            "requires": "|Cassie Cage|"
+        },
+        {
+            "name": "Torre Klásica completada - D'Vorah",
+            "category": [
+                "Torre Klásica"
+            ],
+            "requires": "|D'Vorah|"
+        },
+        {
+            "name": "Torre Klásica completada - Ermac",
+            "category": [
+                "Torre Klásica"
+            ],
+            "requires": "|Ermac|"
+        },
+        {
+            "name": "Torre Klásica completada - Erron Black",
+            "category": [
+                "Torre Klásica"
+            ],
+            "requires": "|Erron Black|"
+        },
+        {
+            "name": "Torre Klásica completada - Ferra/Torr",
+            "category": [
+                "Torre Klásica"
+            ],
+            "requires": "|Ferra/Torr|"
+        },
+        {
+            "name": "Torre Klásica completada - Goro",
+            "category": [
+                "Torre Klásica"
+            ],
+            "requires": "|Goro|"
+        },
+        {
+            "name": "Torre Klásica completada - Jacqui Briggs",
+            "category": [
+                "Torre Klásica"
+            ],
+            "requires": "|Jacqui Briggs|"
+        },
+        {
+            "name": "Torre Klásica completada - Jason Voorhees",
+            "category": [
+                "Torre Klásica"
+            ],
+            "requires": "|Jason Voorhees|"
+        },
+        {
+            "name": "Torre Klásica completada - Jax",
+            "category": [
+                "Torre Klásica"
+            ],
+            "requires": "|Jax|"
+        },
+        {
+            "name": "Torre Klásica completada - Johnny Cage",
+            "category": [
+                "Torre Klásica"
+            ],
+            "requires": "|Johnny Cage|"
+        },
+        {
+            "name": "Torre Klásica completada - Kano",
+            "category": [
+                "Torre Klásica"
+            ],
+            "requires": "|Kano|"
+        },
+        {
+            "name": "Torre Klásica completada - Kenshi",
+            "category": [
+                "Torre Klásica"
+            ],
+            "requires": "|Kenshi|"
+        },
+        {
+            "name": "Torre Klásica completada - Kitana",
+            "category": [
+                "Torre Klásica"
+            ],
+            "requires": "|Kitana|"
+        },
+        {
+            "name": "Torre Klásica completada - Kotal Kahn",
+            "category": [
+                "Torre Klásica"
+            ],
+            "requires": "|Kotal Kahn|"
+        },
+        {
+            "name": "Torre Klásica completada - Kung Jin",
+            "category": [
+                "Torre Klásica"
+            ],
+            "requires": "|Kung Jin|"
+        },
+        {
+            "name": "Torre Klásica completada - Kung Lao",
+            "category": [
+                "Torre Klásica"
+            ],
+            "requires": "|Kung Lao|"
+        },
+        {
+            "name": "Torre Klásica completada - Leatherface",
+            "category": [
+                "Torre Klásica"
+            ],
+            "requires": "|Leatherface|"
+        },
+        {
+            "name": "Torre Klásica completada - Liu Kang",
+            "category": [
+                "Torre Klásica"
+            ],
+            "requires": "|Liu Kang|"
+        },
+        {
+            "name": "Torre Klásica completada - Mileena",
+            "category": [
+                "Torre Klásica"
+            ],
+            "requires": "|Mileena|"
+        },
+        {
+            "name": "Torre Klásica completada - Predator",
+            "category": [
+                "Torre Klásica"
+            ],
+            "requires": "|Predator|"
+        },
+        {
+            "name": "Torre Klásica completada - Quan Chi",
+            "category": [
+                "Torre Klásica"
+            ],
+            "requires": "|Quan Chi|"
+        },
+        {
+            "name": "Torre Klásica completada - Raiden",
+            "category": [
+                "Torre Klásica"
+            ],
+            "requires": "|Raiden|"
+        },
+        {
+            "name": "Torre Klásica completada - Reptile",
+            "category": [
+                "Torre Klásica"
+            ],
+            "requires": "|Reptile|"
+        },
+        {
+            "name": "Torre Klásica completada - Scorpion",
+            "category": [
+                "Torre Klásica"
+            ],
+            "requires": "|Scorpion|"
+        },
+        {
+            "name": "Torre Klásica completada - Shinnok",
+            "category": [
+                "Torre Klásica"
+            ],
+            "requires": "|Shinnok|"
+        },
+        {
+            "name": "Torre Klásica completada - Sonya Blade",
+            "category": [
+                "Torre Klásica"
+            ],
+            "requires": "|Sonya Blade|"
+        },
+        {
+            "name": "Torre Klásica completada - Sub-Zero",
+            "category": [
+                "Torre Klásica"
+            ],
+            "requires": "|Sub-Zero|"
+        },
+        {
+            "name": "Torre Klásica completada - Takeda",
+            "category": [
+                "Torre Klásica"
+            ],
+            "requires": "|Takeda|"
+        },
+        {
+            "name": "Torre Klásica completada - Tanya",
+            "category": [
+                "Torre Klásica"
+            ],
+            "requires": "|Tanya|"
+        },
+        {
+            "name": "Torre Klásica completada - Tremor",
+            "category": [
+                "Torre Klásica"
+            ],
+            "requires": "|Tremor|"
+        },
+        {
+            "name": "Torre Klásica completada - Triborg",
+            "category": [
+                "Torre Klásica"
+            ],
+            "requires": "|Triborg|"
+        },
+        {
+            "name": "Fatality - Alien",
+            "category": [
+                "Fatalities"
+            ],
+            "requires": "|Alien|"
+        },
+        {
+            "name": "Fatality - Bo' Rai Cho",
+            "category": [
+                "Fatalities"
+            ],
+            "requires": "|Bo' Rai Cho|"
+        },
+        {
+            "name": "Fatality - Cassie Cage",
+            "category": [
+                "Fatalities"
+            ],
+            "requires": "|Cassie Cage|"
+        },
+        {
+            "name": "Fatality - D'Vorah",
+            "category": [
+                "Fatalities"
+            ],
+            "requires": "|D'Vorah|"
+        },
+        {
+            "name": "Fatality - Ermac",
+            "category": [
+                "Fatalities"
+            ],
+            "requires": "|Ermac|"
+        },
+        {
+            "name": "Fatality - Erron Black",
+            "category": [
+                "Fatalities"
+            ],
+            "requires": "|Erron Black|"
+        },
+        {
+            "name": "Fatality - Ferra/Torr",
+            "category": [
+                "Fatalities"
+            ],
+            "requires": "|Ferra/Torr|"
+        },
+        {
+            "name": "Fatality - Goro",
+            "category": [
+                "Fatalities"
+            ],
+            "requires": "|Goro|"
+        },
+        {
+            "name": "Fatality - Jacqui Briggs",
+            "category": [
+                "Fatalities"
+            ],
+            "requires": "|Jacqui Briggs|"
+        },
+        {
+            "name": "Fatality - Jason Voorhees",
+            "category": [
+                "Fatalities"
+            ],
+            "requires": "|Jason Voorhees|"
+        },
+        {
+            "name": "Fatality - Jax",
+            "category": [
+                "Fatalities"
+            ],
+            "requires": "|Jax|"
+        },
+        {
+            "name": "Fatality - Johnny Cage",
+            "category": [
+                "Fatalities"
+            ],
+            "requires": "|Johnny Cage|"
+        },
+        {
+            "name": "Fatality - Kano",
+            "category": [
+                "Fatalities"
+            ],
+            "requires": "|Kano|"
+        },
+        {
+            "name": "Fatality - Kenshi",
+            "category": [
+                "Fatalities"
+            ],
+            "requires": "|Kenshi|"
+        },
+        {
+            "name": "Fatality - Kitana",
+            "category": [
+                "Fatalities"
+            ],
+            "requires": "|Kitana|"
+        },
+        {
+            "name": "Fatality - Kotal Kahn",
+            "category": [
+                "Fatalities"
+            ],
+            "requires": "|Kotal Kahn|"
+        },
+        {
+            "name": "Fatality - Kung Jin",
+            "category": [
+                "Fatalities"
+            ],
+            "requires": "|Kung Jin|"
+        },
+        {
+            "name": "Fatality - Kung Lao",
+            "category": [
+                "Fatalities"
+            ],
+            "requires": "|Kung Lao|"
+        },
+        {
+            "name": "Fatality - Leatherface",
+            "category": [
+                "Fatalities"
+            ],
+            "requires": "|Leatherface|"
+        },
+        {
+            "name": "Fatality - Liu Kang",
+            "category": [
+                "Fatalities"
+            ],
+            "requires": "|Liu Kang|"
+        },
+        {
+            "name": "Fatality - Mileena",
+            "category": [
+                "Fatalities"
+            ],
+            "requires": "|Mileena|"
+        },
+        {
+            "name": "Fatality - Predator",
+            "category": [
+                "Fatalities"
+            ],
+            "requires": "|Predator|"
+        },
+        {
+            "name": "Fatality - Quan Chi",
+            "category": [
+                "Fatalities"
+            ],
+            "requires": "|Quan Chi|"
+        },
+        {
+            "name": "Fatality - Raiden",
+            "category": [
+                "Fatalities"
+            ],
+            "requires": "|Raiden|"
+        },
+        {
+            "name": "Fatality - Reptile",
+            "category": [
+                "Fatalities"
+            ],
+            "requires": "|Reptile|"
+        },
+        {
+            "name": "Fatality - Scorpion",
+            "category": [
+                "Fatalities"
+            ],
+            "requires": "|Scorpion|"
+        },
+        {
+            "name": "Fatality - Shinnok",
+            "category": [
+                "Fatalities"
+            ],
+            "requires": "|Shinnok|"
+        },
+        {
+            "name": "Fatality - Sonya Blade",
+            "category": [
+                "Fatalities"
+            ],
+            "requires": "|Sonya Blade|"
+        },
+        {
+            "name": "Fatality - Sub-Zero",
+            "category": [
+                "Fatalities"
+            ],
+            "requires": "|Sub-Zero|"
+        },
+        {
+            "name": "Fatality - Takeda",
+            "category": [
+                "Fatalities"
+            ],
+            "requires": "|Takeda|"
+        },
+        {
+            "name": "Fatality - Tanya",
+            "category": [
+                "Fatalities"
+            ],
+            "requires": "|Tanya|"
+        },
+        {
+            "name": "Fatality - Tremor",
+            "category": [
+                "Fatalities"
+            ],
+            "requires": "|Tremor|"
+        },
+        {
+            "name": "Fatality - Triborg",
+            "category": [
+                "Fatalities"
+            ],
+            "requires": "|Triborg|"
+        },
+        {
+            "name": "Brutality - Alien",
+            "category": [
+                "Brutalities"
+            ],
+            "requires": "|Alien|"
+        },
+        {
+            "name": "Brutality - Bo' Rai Cho",
+            "category": [
+                "Brutalities"
+            ],
+            "requires": "|Bo' Rai Cho|"
+        },
+        {
+            "name": "Brutality - Cassie Cage",
+            "category": [
+                "Brutalities"
+            ],
+            "requires": "|Cassie Cage|"
+        },
+        {
+            "name": "Brutality - D'Vorah",
+            "category": [
+                "Brutalities"
+            ],
+            "requires": "|D'Vorah|"
+        },
+        {
+            "name": "Brutality - Ermac",
+            "category": [
+                "Brutalities"
+            ],
+            "requires": "|Ermac|"
+        },
+        {
+            "name": "Brutality - Erron Black",
+            "category": [
+                "Brutalities"
+            ],
+            "requires": "|Erron Black|"
+        },
+        {
+            "name": "Brutality - Ferra/Torr",
+            "category": [
+                "Brutalities"
+            ],
+            "requires": "|Ferra/Torr|"
+        },
+        {
+            "name": "Brutality - Goro",
+            "category": [
+                "Brutalities"
+            ],
+            "requires": "|Goro|"
+        },
+        {
+            "name": "Brutality - Jacqui Briggs",
+            "category": [
+                "Brutalities"
+            ],
+            "requires": "|Jacqui Briggs|"
+        },
+        {
+            "name": "Brutality - Jason Voorhees",
+            "category": [
+                "Brutalities"
+            ],
+            "requires": "|Jason Voorhees|"
+        },
+        {
+            "name": "Brutality - Jax",
+            "category": [
+                "Brutalities"
+            ],
+            "requires": "|Jax|"
+        },
+        {
+            "name": "Brutality - Johnny Cage",
+            "category": [
+                "Brutalities"
+            ],
+            "requires": "|Johnny Cage|"
+        },
+        {
+            "name": "Brutality - Kano",
+            "category": [
+                "Brutalities"
+            ],
+            "requires": "|Kano|"
+        },
+        {
+            "name": "Brutality - Kenshi",
+            "category": [
+                "Brutalities"
+            ],
+            "requires": "|Kenshi|"
+        },
+        {
+            "name": "Brutality - Kitana",
+            "category": [
+                "Brutalities"
+            ],
+            "requires": "|Kitana|"
+        },
+        {
+            "name": "Brutality - Kotal Kahn",
+            "category": [
+                "Brutalities"
+            ],
+            "requires": "|Kotal Kahn|"
+        },
+        {
+            "name": "Brutality - Kung Jin",
+            "category": [
+                "Brutalities"
+            ],
+            "requires": "|Kung Jin|"
+        },
+        {
+            "name": "Brutality - Kung Lao",
+            "category": [
+                "Brutalities"
+            ],
+            "requires": "|Kung Lao|"
+        },
+        {
+            "name": "Brutality - Leatherface",
+            "category": [
+                "Brutalities"
+            ],
+            "requires": "|Leatherface|"
+        },
+        {
+            "name": "Brutality - Liu Kang",
+            "category": [
+                "Brutalities"
+            ],
+            "requires": "|Liu Kang|"
+        },
+        {
+            "name": "Brutality - Mileena",
+            "category": [
+                "Brutalities"
+            ],
+            "requires": "|Mileena|"
+        },
+        {
+            "name": "Brutality - Predator",
+            "category": [
+                "Brutalities"
+            ],
+            "requires": "|Predator|"
+        },
+        {
+            "name": "Brutality - Quan Chi",
+            "category": [
+                "Brutalities"
+            ],
+            "requires": "|Quan Chi|"
+        },
+        {
+            "name": "Brutality - Raiden",
+            "category": [
+                "Brutalities"
+            ],
+            "requires": "|Raiden|"
+        },
+        {
+            "name": "Brutality - Reptile",
+            "category": [
+                "Brutalities"
+            ],
+            "requires": "|Reptile|"
+        },
+        {
+            "name": "Brutality - Scorpion",
+            "category": [
+                "Brutalities"
+            ],
+            "requires": "|Scorpion|"
+        },
+        {
+            "name": "Brutality - Shinnok",
+            "category": [
+                "Brutalities"
+            ],
+            "requires": "|Shinnok|"
+        },
+        {
+            "name": "Brutality - Sonya Blade",
+            "category": [
+                "Brutalities"
+            ],
+            "requires": "|Sonya Blade|"
+        },
+        {
+            "name": "Brutality - Sub-Zero",
+            "category": [
+                "Brutalities"
+            ],
+            "requires": "|Sub-Zero|"
+        },
+        {
+            "name": "Brutality - Takeda",
+            "category": [
+                "Brutalities"
+            ],
+            "requires": "|Takeda|"
+        },
+        {
+            "name": "Brutality - Tanya",
+            "category": [
+                "Brutalities"
+            ],
+            "requires": "|Tanya|"
+        },
+        {
+            "name": "Brutality - Tremor",
+            "category": [
+                "Brutalities"
+            ],
+            "requires": "|Tremor|"
+        },
+        {
+            "name": "Brutality - Triborg",
+            "category": [
+                "Brutalities"
+            ],
+            "requires": "|Triborg|"
+        },
+        {
+            "name": "Historia Capítulo 1 - Johnny Cage",
+            "category": [
+                "Modo Historia"
+            ],
+            "requires": "|Johnny Cage|"
+        },
+        {
+            "name": "Historia Capítulo 2 - Kotal Kahn",
+            "category": [
+                "Modo Historia"
+            ],
+            "requires": "|Johnny Cage| and |Kotal Kahn|"
+        },
+        {
+            "name": "Historia Capítulo 3 - Sub-Zero",
+            "category": [
+                "Modo Historia"
+            ],
+            "requires": "|Johnny Cage| and |Kotal Kahn| and |Sub-Zero|"
+        },
+        {
+            "name": "Historia Capítulo 4 - Kung Jin",
+            "category": [
+                "Modo Historia"
+            ],
+            "requires": "|Johnny Cage| and |Kotal Kahn| and |Sub-Zero| and |Kung Jin|"
+        },
+        {
+            "name": "Historia Capítulo 5 - Sonya Blade",
+            "category": [
+                "Modo Historia"
+            ],
+            "requires": "|Johnny Cage| and |Kotal Kahn| and |Sub-Zero| and |Kung Jin| and |Sonya Blade|"
+        },
+        {
+            "name": "Historia Capítulo 6 - D'Vorah",
+            "category": [
+                "Modo Historia"
+            ],
+            "requires": "|Johnny Cage| and |Kotal Kahn| and |Sub-Zero| and |Kung Jin| and |Sonya Blade| and |D'Vorah|"
+        },
+        {
+            "name": "Historia Capítulo 7 - Takeda",
+            "category": [
+                "Modo Historia"
+            ],
+            "requires": "|Johnny Cage| and |Kotal Kahn| and |Sub-Zero| and |Kung Jin| and |Sonya Blade| and |D'Vorah| and |Takeda|"
+        },
+        {
+            "name": "Historia Capítulo 8 - Jax",
+            "category": [
+                "Modo Historia"
+            ],
+            "requires": "|Johnny Cage| and |Kotal Kahn| and |Sub-Zero| and |Kung Jin| and |Sonya Blade| and |D'Vorah| and |Takeda| and |Jax|"
+        },
+        {
+            "name": "Historia Capítulo 9 - Scorpion",
+            "category": [
+                "Modo Historia"
+            ],
+            "requires": "|Johnny Cage| and |Kotal Kahn| and |Sub-Zero| and |Kung Jin| and |Sonya Blade| and |D'Vorah| and |Takeda| and |Jax| and |Scorpion|"
+        },
+        {
+            "name": "Historia Capítulo 10 - Raiden",
+            "category": [
+                "Modo Historia"
+            ],
+            "requires": "|Johnny Cage| and |Kotal Kahn| and |Sub-Zero| and |Kung Jin| and |Sonya Blade| and |D'Vorah| and |Takeda| and |Jax| and |Scorpion| and |Raiden|"
+        },
+        {
+            "name": "Historia Capítulo 11 - Jacqui Briggs",
+            "category": [
+                "Modo Historia"
+            ],
+            "requires": "|Johnny Cage| and |Kotal Kahn| and |Sub-Zero| and |Kung Jin| and |Sonya Blade| and |D'Vorah| and |Takeda| and |Jax| and |Scorpion| and |Raiden| and |Jacqui Briggs|"
+        },
+        {
+            "name": "Historia Capítulo 12 - Cassie Cage",
+            "category": [
+                "Modo Historia"
+            ],
+            "requires": "|Johnny Cage| and |Kotal Kahn| and |Sub-Zero| and |Kung Jin| and |Sonya Blade| and |D'Vorah| and |Takeda| and |Jax| and |Scorpion| and |Raiden| and |Jacqui Briggs| and |Cassie Cage|"
+        },
+        {
+            "name": "Krypta: compra 1",
+            "category": [
+                "Krypta"
+            ]
+        },
+        {
+            "name": "Krypta: compra 2",
+            "category": [
+                "Krypta"
+            ]
+        },
+        {
+            "name": "Krypta: compra 3",
+            "category": [
+                "Krypta"
+            ]
+        },
+        {
+            "name": "Krypta: compra 4",
+            "category": [
+                "Krypta"
+            ]
+        },
+        {
+            "name": "Krypta: compra 5",
+            "category": [
+                "Krypta"
+            ]
+        },
+        {
+            "name": "Krypta: compra 6",
+            "category": [
+                "Krypta"
+            ]
+        },
+        {
+            "name": "Krypta: compra 7",
+            "category": [
+                "Krypta"
+            ]
+        },
+        {
+            "name": "Krypta: compra 8",
+            "category": [
+                "Krypta"
+            ]
+        },
+        {
+            "name": "Krypta: compra 9",
+            "category": [
+                "Krypta"
+            ]
+        },
+        {
+            "name": "Krypta: compra 10",
+            "category": [
+                "Krypta"
+            ]
+        },
+        {
+            "name": "Krypta: compra 11",
+            "category": [
+                "Krypta"
+            ]
+        },
+        {
+            "name": "Krypta: compra 12",
+            "category": [
+                "Krypta"
+            ]
+        },
+        {
+            "name": "Krypta: compra 13",
+            "category": [
+                "Krypta"
+            ]
+        },
+        {
+            "name": "Krypta: compra 14",
+            "category": [
+                "Krypta"
+            ]
+        },
+        {
+            "name": "Krypta: compra 15",
+            "category": [
+                "Krypta"
+            ]
+        },
+        {
+            "name": "Krypta: compra 16",
+            "category": [
+                "Krypta"
+            ]
+        },
+        {
+            "name": "Krypta: compra 17",
+            "category": [
+                "Krypta"
+            ]
+        },
+        {
+            "name": "Krypta: compra 18",
+            "category": [
+                "Krypta"
+            ]
+        },
+        {
+            "name": "Krypta: compra 19",
+            "category": [
+                "Krypta"
+            ]
+        },
+        {
+            "name": "Krypta: compra 20",
+            "category": [
+                "Krypta"
+            ]
+        },
+        {
+            "name": "Restaurar el Amuleto y derrotar a Shinnok",
+            "category": [
+                "Meta"
+            ],
+            "victory": true,
+            "requires": "|Fragmento del Amuleto de Shinnok:8| and |@Personajes:10|"
+        }
+    ]
+}

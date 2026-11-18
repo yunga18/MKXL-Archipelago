@@ -1,0 +1,276 @@
+{
+    "$schema": "https://github.com/ManualForArchipelago/Manual/raw/main/schemas/Manual.items.schema.json",
+    "data": [
+        {
+            "name": "Alien",
+            "category": [
+                "Personajes"
+            ],
+            "progression": true
+        },
+        {
+            "name": "Bo' Rai Cho",
+            "category": [
+                "Personajes"
+            ],
+            "progression": true
+        },
+        {
+            "name": "Cassie Cage",
+            "category": [
+                "Personajes"
+            ],
+            "progression": true
+        },
+        {
+            "name": "D'Vorah",
+            "category": [
+                "Personajes"
+            ],
+            "progression": true
+        },
+        {
+            "name": "Ermac",
+            "category": [
+                "Personajes"
+            ],
+            "progression": true
+        },
+        {
+            "name": "Erron Black",
+            "category": [
+                "Personajes"
+            ],
+            "progression": true
+        },
+        {
+            "name": "Ferra/Torr",
+            "category": [
+                "Personajes"
+            ],
+            "progression": true
+        },
+        {
+            "name": "Goro",
+            "category": [
+                "Personajes"
+            ],
+            "progression": true
+        },
+        {
+            "name": "Jacqui Briggs",
+            "category": [
+                "Personajes"
+            ],
+            "progression": true
+        },
+        {
+            "name": "Jason Voorhees",
+            "category": [
+                "Personajes"
+            ],
+            "progression": true
+        },
+        {
+            "name": "Jax",
+            "category": [
+                "Personajes"
+            ],
+            "progression": true
+        },
+        {
+            "name": "Johnny Cage",
+            "category": [
+                "Personajes"
+            ],
+            "progression": true
+        },
+        {
+            "name": "Kano",
+            "category": [
+                "Personajes"
+            ],
+            "progression": true
+        },
+        {
+            "name": "Kenshi",
+            "category": [
+                "Personajes"
+            ],
+            "progression": true
+        },
+        {
+            "name": "Kitana",
+            "category": [
+                "Personajes"
+            ],
+            "progression": true
+        },
+        {
+            "name": "Kotal Kahn",
+            "category": [
+                "Personajes"
+            ],
+            "progression": true
+        },
+        {
+            "name": "Kung Jin",
+            "category": [
+                "Personajes"
+            ],
+            "progression": true
+        },
+        {
+            "name": "Kung Lao",
+            "category": [
+                "Personajes"
+            ],
+            "progression": true
+        },
+        {
+            "name": "Leatherface",
+            "category": [
+                "Personajes"
+            ],
+            "progression": true
+        },
+        {
+            "name": "Liu Kang",
+            "category": [
+                "Personajes"
+            ],
+            "progression": true
+        },
+        {
+            "name": "Mileena",
+            "category": [
+                "Personajes"
+            ],
+            "progression": true
+        },
+        {
+            "name": "Predator",
+            "category": [
+                "Personajes"
+            ],
+            "progression": true
+        },
+        {
+            "name": "Quan Chi",
+            "category": [
+                "Personajes"
+            ],
+            "progression": true
+        },
+        {
+            "name": "Raiden",
+            "category": [
+                "Personajes"
+            ],
+            "progression": true
+        },
+        {
+            "name": "Reptile",
+            "category": [
+                "Personajes"
+            ],
+            "progression": true
+        },
+        {
+            "name": "Scorpion",
+            "category": [
+                "Personajes"
+            ],
+            "progression": true
+        },
+        {
+            "name": "Shinnok",
+            "category": [
+                "Personajes"
+            ],
+            "progression": true
+        },
+        {
+            "name": "Sonya Blade",
+            "category": [
+                "Personajes"
+            ],
+            "progression": true
+        },
+        {
+            "name": "Sub-Zero",
+            "category": [
+                "Personajes"
+            ],
+            "progression": true
+        },
+        {
+            "name": "Takeda",
+            "category": [
+                "Personajes"
+            ],
+            "progression": true
+        },
+        {
+            "name": "Tanya",
+            "category": [
+                "Personajes"
+            ],
+            "progression": true
+        },
+        {
+            "name": "Tremor",
+            "category": [
+                "Personajes"
+            ],
+            "progression": true
+        },
+        {
+            "name": "Triborg",
+            "category": [
+                "Personajes"
+            ],
+            "progression": true
+        },
+        {
+            "name": "Fragmento del Amuleto de Shinnok",
+            "category": [
+                "Amuleto"
+            ],
+            "count": 12,
+            "progression": true
+        },
+        {
+            "name": "Trampa: Próxima pelea sin bloquear",
+            "category": [
+                "Trampas"
+            ],
+            "trap": true,
+            "count": 0
+        },
+        {
+            "name": "Trampa: Próxima pelea sin movimientos especiales",
+            "category": [
+                "Trampas"
+            ],
+            "trap": true,
+            "count": 0
+        },
+        {
+            "name": "Trampa: Próxima pelea sin saltar",
+            "category": [
+                "Trampas"
+            ],
+            "trap": true,
+            "count": 0
+        },
+        {
+            "name": "Trampa: Próxima pelea en dificultad Muy Difícil",
+            "category": [
+                "Trampas"
+            ],
+            "trap": true,
+            "count": 0
+        }
+    ]
+}

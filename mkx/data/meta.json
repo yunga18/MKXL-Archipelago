@@ -1,0 +1,10 @@
+{
+    "$schema": "https://raw.githubusercontent.com/ManualForArchipelago/Manual/main/schemas/Manual.meta.schema.json",
+    "docs": {
+        "apworld_description": [
+            "Mortal Kombat XL (PC, Steam) para Archipelago.",
+            "Usa el 'Mortal Kombat XL Client': bloquea en la selección a los personajes que no has recibido y detecta Fatalities, Brutalities, Torres Klásicas y capítulos de la historia.",
+            "Junta los Fragmentos del Amuleto de Shinnok y completa una Torre Klásica para ganar."
+        ]
+    }
+}

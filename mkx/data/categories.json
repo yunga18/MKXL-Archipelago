@@ -1,0 +1,24 @@
+{
+    "$schema": "https://github.com/ManualForArchipelago/Manual/raw/main/schemas/Manual.categories.schema.json",
+    "Personajes": {},
+    "Amuleto": {},
+    "Trampas": {},
+    "Torre Klásica": {},
+    "Fatalities": {},
+    "Brutalities": {
+        "yaml_option": [
+            "incluir_brutalities"
+        ]
+    },
+    "Modo Historia": {
+        "yaml_option": [
+            "incluir_modo_historia"
+        ]
+    },
+    "Krypta": {
+        "yaml_option": [
+            "incluir_krypta"
+        ]
+    },
+    "Meta": {}
+}

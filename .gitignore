@@ -1,0 +1,13 @@
+# Paquetes generados (se publican en Releases, no en el repo)
+dist/
+*.apworld
+
+# Tabla de símbolos generada desde el PDB del juego (47 MB; se regenera con tools/msf.py)
+tools/publics.tsv
+
+# YAML personales (usa plantilla_MKXL.yaml como base)
+*_MKX.yaml
+
+# Python
+__pycache__/
+*.pyc

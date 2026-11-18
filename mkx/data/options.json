@@ -1,0 +1,44 @@
+{
+    "$schema": "https://raw.githubusercontent.com/ManualForArchipelago/Manual/main/schemas/Manual.options.schema.json",
+    "core": {
+        "goal": {
+            "display_name": "Objetivo",
+            "hidden": true
+        },
+        "filler_traps": {
+            "values": {
+                "recomendado": 20
+            }
+        }
+    },
+    "user": {
+        "incluir_brutalities": {
+            "type": "Toggle",
+            "default": false,
+            "display_name": "Incluir Brutalities",
+            "description": [
+                "Agrega un check por hacer un Brutality con cada personaje.",
+                "Más difícil: muchos Brutalities tienen condiciones especiales."
+            ]
+        },
+        "incluir_modo_historia": {
+            "type": "Toggle",
+            "default": true,
+            "display_name": "Incluir Modo Historia",
+            "description": [
+                "Agrega un check por cada uno de los 12 capítulos de la historia.",
+                "Cada capítulo exige tener a su protagonista y a los de los capítulos anteriores."
+            ]
+        },
+        "incluir_krypta": {
+            "type": "Toggle",
+            "default": true,
+            "display_name": "Incluir Krypta",
+            "description": [
+                "Agrega 20 checks: 'Krypta: compra N'.",
+                "Cuenta cada cosa que compres con Koins en la Krypta, sea lo que sea",
+                "(objetos nuevos, cofres de Koins, consumibles). No se agota."
+            ]
+        }
+    }
+}

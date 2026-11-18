@@ -23,6 +23,12 @@ El usuario (Yunga) no programa: explícale en español, en pasos simples, y haz 
 4. Si cambian nombres de items/locations, hay que **generar una partida nueva**.
 5. El cliente escribe `C:\ProgramData\Archipelago\MKXL_debug.log` (cambios de estado) y `/mk_volcado` escribe `MKXL_volcado.txt`. Úsalos para investigar.
 
+## Publicación (GitHub)
+
+- Repo público: https://github.com/yunga18/MKXL-Archipelago (licencia MIT). Commits con el correo privado `243431415+yunga18@users.noreply.github.com` (configurado solo en este repo).
+- El remoto usa `https://yunga18@github.com/...` porque Windows tiene guardada otra cuenta (Yunga17).
+- Nueva versión: subir `world_version`, commit, `git tag -a vX.Y.Z`, `git push --follow-tags`, y crear la Release en la web adjuntando `dist/mkx.apworld` (no hay `gh` instalado). `tools/publics.tsv`, `dist/` y los YAML personales están en `.gitignore`.
+
 ## Diseño del mundo (v0.4)
 
 - Items: 33 personajes (progresión), 12 "Fragmento del Amuleto de Shinnok", relleno "1000 Koins", 4 trampas (por `filler_traps`). Se empieza con 3 personajes al azar.
